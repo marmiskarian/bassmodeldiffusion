@@ -2,7 +2,7 @@
 
 
 import statsmodels.formula.api as smf
-from bassmodel.base.base import *
+from bassmodeldiffusion.base.base import *
 
 
 class Modeling(Base):

@@ -1,7 +1,7 @@
 """Visualizing module"""
 
 
-from bassmodel.modeling.modeling import *
+from bassmodeldiffusion.modeling.modeling import *
 
 
 class Visualize(Modeling):
