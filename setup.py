@@ -21,7 +21,7 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
-        'Programming Language :: Python :: 3.10.9',
+        'Programming Language :: Python :: 3.10',
     ],
     description="The Python implementation of the Bass Model",
     install_requires=requirements,
