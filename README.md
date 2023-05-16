@@ -43,6 +43,9 @@ For detailed information on how to use each function and module, please refer to
 
 The `inference.ipynb` Notebook contains an example usage of the package on an example data.
 
+## Reference Paper
+[Bass diffusion model](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/WIKIPEDI/W101203B.pdf)
+
 ## Contribution
 Contributions to the bassmodeldiffusion package are welcome! If you encounter any issues, have suggestions, or would like to contribute to the project, please feel free to submit a pull request or open an issue on the GitHub repository.
 
