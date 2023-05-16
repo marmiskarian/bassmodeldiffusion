@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use bassmodel in a project::
+To use bassmodeldiffusion in a project::
 
-    import bassmodel
+    import bassmodeldiffusion

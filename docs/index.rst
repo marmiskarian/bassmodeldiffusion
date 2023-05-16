@@ -1,4 +1,4 @@
-Welcome to bassmodel's documentation!
+Welcome to bassmodeldiffusion's documentation!
 ======================================
 
 .. toctree::

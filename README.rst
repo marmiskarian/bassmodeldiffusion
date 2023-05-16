@@ -1,26 +1,11 @@
-=========
-bassmodel
-=========
-
-
-.. image:: https://img.shields.io/pypi/v/bassmodel.svg
-        :target: https://pypi.python.org/pypi/bassmodel
-
-.. image:: https://img.shields.io/travis/ilynmark/bassmodel.svg
-        :target: https://travis-ci.com/ilynmark/bassmodel
-
-.. image:: https://readthedocs.org/projects/bassmodel/badge/?version=latest
-        :target: https://bassmodel.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
-
-
-
+==================
+bassmodeldiffusion
+==================
 
 The Python implementation of the Bass Model
 
 
 * Free software: MIT license
-* Documentation: https://bassmodel.readthedocs.io.
 
 
 Features
