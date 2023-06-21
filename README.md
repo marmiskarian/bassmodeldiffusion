@@ -1,4 +1,6 @@
 # Bass Model Diffusions
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 This package, bassmodeldiffusion, is designed to provide a set of tools and functions for analyzing and modeling diffusion processes using the Bass Model. The Bass Model is a widely used framework for studying the adoption and spread of innovations or products in a population over time. By employing this package, users can gain insights into the diffusion patterns, make predictions, and visualize the diffusion process.
 
 ## Problem Definition
